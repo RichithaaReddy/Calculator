@@ -1,6 +1,5 @@
 /* eslint-disable no-eval */
 import React, { useState } from 'react';
-
 function App() {
   const [input,setInput] = useState("")
   const[result,setResult] = useState()
